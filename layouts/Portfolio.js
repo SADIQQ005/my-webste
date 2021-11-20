@@ -152,7 +152,7 @@ export default function Portfolio() {
               <Box>
                 <Stat>
                   <StatLabel>Learning</StatLabel>
-                  <StatNumber>Freelancing</StatNumber>
+                  <StatNumber>Freelancer</StatNumber>
                   <StatHelpText>
                     <StatArrow type="increase" />
                     Sep 2020 - Jun 2021

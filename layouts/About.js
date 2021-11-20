@@ -12,10 +12,9 @@ export default function About() {
             colSpan={[2, 1]}
             rowSpan={[2, 1]}
           >
-            <Box w={["280px", "400px"]} mt={["20%", "12%"]} ml={["10%", "20%"]}>
+            <Box>
               <Image
-                transform="rotate(-10deg)"
-                rounded="2xl"
+                h='100%'
                 shadow="lg"
                 src="/images/profile.jpeg"
               />
