@@ -25,7 +25,7 @@ export default function Welcome() {
           </Text>
         </Flex>
 
-        <Flex mt={["20%", "5%"]} justify="center" align="center">
+        <Flex mt="5%" justify="center" align="center">
           <Heading
             p={[12, 10]}
             as="h2"
