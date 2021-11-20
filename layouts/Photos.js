@@ -18,6 +18,6 @@ export const web = [
   },
   {
     url: "/images/web3.png",
-    link: "https://blissful-wozniak-b41f32.netlify.app/",
+    link: "/",
   },
 ];

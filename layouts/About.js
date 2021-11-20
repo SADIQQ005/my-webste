@@ -7,7 +7,7 @@ export default function About() {
       <Box>
         <Grid templateColumns="repeat(2, 1fr)" templateColumns="repeat(2, 1fr)">
           <GridItem
-            height={["80vh", "100vh"]}
+            height={["100%", "100%"]}
             bg="gray.200"
             colSpan={[2, 1]}
             rowSpan={[2, 1]}
