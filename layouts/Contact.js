@@ -34,7 +34,7 @@ export default function Contact() {
               fontSize={["2xl", "4xl"]}
               color="gray.800"
             >
-              contact
+              contacts
             </Text>
             <Text fontWeight="light" my={2}>Keffi, 961101, Nigeria</Text>
             <Text fontWeight="semibold" my={2}>abusadiqq005@gmail.com</Text>

@@ -19,7 +19,7 @@ import {
   StatArrow,
 } from "@chakra-ui/react";
 import { AttachmentIcon, CalendarIcon, EditIcon } from "@chakra-ui/icons";
-import { Ui, web } from "./Photos";
+import { Ui, web } from "../photos/Photos";
 import Link from "next/link";
 
 export default function Portfolio() {

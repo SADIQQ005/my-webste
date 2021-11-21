@@ -6,16 +6,12 @@ export default function About() {
     <>
       <Box>
         <Grid templateColumns="repeat(2, 1fr)" templateColumns="repeat(2, 1fr)">
-          <GridItem
-            height={["100%", "100%"]}
-            bg="gray.200"
-            colSpan={[2, 1]}
-            rowSpan={[2, 1]}
-          >
+          <GridItem p={6} colSpan={[2, 2, 2, 1]} rowSpan={[2, 2, 2, 1]}>
             <Box>
               <Image
-                h='100%'
-                shadow="lg"
+                h="600px"
+                w="100%"
+                objectFit="contain"
                 src="/images/profile.jpeg"
               />
             </Box>
@@ -24,8 +20,8 @@ export default function About() {
             height="100%"
             p={8}
             bg="red.200"
-            colSpan={[2, 1]}
-            rowSpan={[2, 1]}
+            colSpan={[2, 2, 2, 1]}
+            rowSpan={[2, 2, 2, 1]}
           >
             <Heading
               letterSpacing="2px"
