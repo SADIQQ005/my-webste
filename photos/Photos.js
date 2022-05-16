@@ -10,7 +10,7 @@ export const Ui = [
 export const web = [
   {
     url: "/images/web1.png",
-    link: "https://musing-torvalds-400ac9.netlify.app/",
+    link: "https://edvora-3j1q385xh-sadiqq005.vercel.app/",
   },
   {
     url: "/images/web2.png",

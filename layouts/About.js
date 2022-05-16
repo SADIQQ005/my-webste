@@ -40,25 +40,27 @@ export default function About() {
               hi i,m suleiman abubakar sadeeq
             </Text>
             <Text textAlign="start" letterSpacing="2px" fontSize="md">
-              <br />A graduate of computer science from a local university in
-              nigeria. Since 2020, I started learning programming myself in
-              2019, and have moved to be a freelancer a year after. Am now
-              looking for a full time job and also still freelancing.
+              <br />A graduate of B.sc computer science, I started learning
+              programming myself in 2019, and have moved to create easy to use
+              but elegant looking websites as a freelancer. I have always had a
+              passion for programming. I can't wait to put all my passion to
+              create awesome web apps for companies full time.
               <br />
               <br />
-              As a graduate, i'm focused on improving my skills and knowledge of
-              frontend development and tech eco-system in a whole. And most
-              importantly landing a job :)
+              As a developer, i'm focus on improving my skills and knowledge of
+              programming and tech by actively learning. And most importantly
+              landing a job :)
               <br />
               <br />
-              When am not typing code on my keyboard or reading some
-              documentation, I enjoy playing video games, watching football
-              match, or sometimes keeping up with memes. I will occasionally go
-              out for a walk or go for a football training session. To know more
-              about me or even hire me as a freelancer or a job, email me @
+              When am not writing code or reading some documentation. I enjoy
+              playing video games, watching football match, or sometimes being
+              on social media. I will occasionally go out for a walk or go for a
+              football training session. To know more about me or even hire me
+              as a freelancer or for a job. Email me @
               <Text as="u" fontWeight="bold">
                 abusadiqq005@gmail.com.
-              </Text>
+              </Text>{" "}
+              or find my contact below. Thank you.
             </Text>
           </GridItem>
         </Grid>
